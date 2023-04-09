@@ -4,8 +4,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/results-summary-component-using-html-5-css-and-flexbox-YgMb9x8URw)
+- [Live Site URL](https://marilisa-saldanha.github.io/results-summary-component/)
 
 ## My process
 
