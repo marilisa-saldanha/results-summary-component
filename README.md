@@ -14,7 +14,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - HTML5
 - CSS
 - Flexbox
-- Mobile-first workflow
 
 ## Author
 
